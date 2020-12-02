@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-void main(){
+int main(){
     vector<int> inputs;
     int temp;
     while(cin >> temp){
